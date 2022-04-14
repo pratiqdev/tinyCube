@@ -12,5 +12,13 @@ a {
 }
 
 * {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+  font-weight: normal;
   box-sizing: border-box;
+}
+
+pre{
+  font-size: .5rem;
 }

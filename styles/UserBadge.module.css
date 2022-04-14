@@ -1,0 +1,13 @@
+.user_badge {
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: .8rem;
+    align-items: center;
+}
+
+.user_image {
+    height: 1.5rem;
+    width: 1.5rem;
+    border-radius: .75rem;
+    margin-right: 5px;
+}

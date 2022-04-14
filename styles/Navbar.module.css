@@ -1,0 +1,25 @@
+.nav_container{
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    padding: .5rem 1rem;
+    border-bottom: 1px solid grey;
+}
+
+.main_heading{
+    color: black;
+    font-size: 1rem;
+    font-weight: normal;
+}
+.main_heading b {
+    color: blue;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.button_container {
+    display: flex;
+}
+.button_container * {
+    margin-left: .5rem;
+}
